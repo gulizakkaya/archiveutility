@@ -4,7 +4,8 @@ This is the program which can compress and extract the files
 
  # Properties
  Compress the files to selected compression types which are tar,zip,rar,bzip2,gzip.
- Extract the selected compressed files (which are in type tar,zip,rar,bzip2,gzip)
+ 
+ Extract the selected compressed files (which are in type tar,zip,rar,bzip2,gzip).
 
  # Installation and Setup
  
